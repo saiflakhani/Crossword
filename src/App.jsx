@@ -274,7 +274,7 @@ export default function App() {
           initial={{ x: 20, opacity: 0 }}
           animate={{ x: 0, opacity: 1 }}
           transition={{ delay: 0.2 }}
-          className="w-full lg:w-96 flex flex-col gap-6 h-[600px]"
+          className="w-full lg:w-96 flex flex-col gap-6 h-full max-h-[80vh]"
         >
           <div className="bg-gray-800/50 rounded-xl p-6 border border-white/10 flex-1 flex flex-col backdrop-blur-sm">
             <div className="flex items-center gap-2 mb-4 text-brand-pink">
@@ -304,7 +304,7 @@ export default function App() {
               </button>
             </div>
 
-            <div className="flex-1 overflow-y-auto space-y-2 mt-4 pr-2">
+            <div className="h-[40vh] overflow-y-auto space-y-2 mt-4 pr-2 border-t border-white/10 pt-4">
               <h3 className="text-gray-400 text-sm font-semibold uppercase tracking-wider mb-2 sticky top-0 bg-gray-800/95 py-2">All Clues</h3>
               {layout.words.map((w) => (
                 <div

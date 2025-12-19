@@ -13,6 +13,6 @@ export const WORD_LIST = [
     { word: "SKIING", clue: "Controlled avalanche evasion" },
     { word: "TIMHORTONS", clue: "Double-double dealer" },
     { word: "SAIF", clue: "The architect of this puzzle ;)" },
-    { word: "PILATES", clue: "Pulse, hold, shake... embrace the burn" },
-    { word: "MAGNETICNAILS", clue: "Cat-eye texture at your fingertips" },
+    { word: "LULULEMON", clue: "The omega on your waistband" },
+    { word: "MAGNETICNAILS", clue: "Velvet shimmer on your hands controlled by physics" },
 ];
