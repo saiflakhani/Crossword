@@ -1,7 +1,7 @@
 export const WORD_LIST = [
     { word: "ARITZIA", clue: "Beige aesthetic that drains the wallet" },
     { word: "BADEMIYA", clue: "Late night priesthood of kebabs" },
-    { word: "HOCKEY", clue: "Religion on ice" },
+    { word: "HOCKEY", clue: "Canada's Religion on ice" },
     { word: "MUSICALS", clue: "Broadway's love language" },
     { word: "BUILDINGS", clue: "Concrete sky-scrapers you admire" },
     { word: "LEATHERPANTS", clue: "Ross Geller's struggle, your style staple" },
@@ -13,6 +13,6 @@ export const WORD_LIST = [
     { word: "SKIING", clue: "Controlled avalanche evasion" },
     { word: "TIMHORTONS", clue: "Double-double dealer" },
     { word: "SAIF", clue: "The architect of this puzzle ;)" },
-    { word: "PILATES", clue: "Reformer torture session" },
+    { word: "PILATES", clue: "Pulse, hold, shake... embrace the burn" },
     { word: "MAGNETICNAILS", clue: "Cat-eye texture at your fingertips" },
 ];

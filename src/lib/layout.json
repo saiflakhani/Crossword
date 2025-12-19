@@ -1,39 +1,39 @@
 {
-  "width": 22,
+  "width": 21,
   "height": 26,
   "words": [
     {
-      "word": "MAGNETICNAILS",
-      "clue": "Cat-eye texture at your fingertips",
-      "row": 13,
-      "col": 9,
-      "direction": "across",
-      "id": 1,
-      "answer": "MAGNETICNAILS"
-    },
-    {
       "word": "MAXVERSTAPPEN",
       "clue": "The flying Dutchman on existing tracks",
-      "row": 7,
-      "col": 21,
+      "row": 13,
+      "col": 0,
+      "direction": "across",
+      "id": 1,
+      "answer": "MAXVERSTAPPEN"
+    },
+    {
+      "word": "MAGNETICNAILS",
+      "clue": "Cat-eye texture at your fingertips",
+      "row": 10,
+      "col": 12,
       "direction": "down",
       "id": 2,
-      "answer": "MAXVERSTAPPEN"
+      "answer": "MAGNETICNAILS"
     },
     {
       "word": "JUSTINBIEBER",
       "clue": "The kid from Stratford",
-      "row": 6,
-      "col": 19,
-      "direction": "down",
+      "row": 20,
+      "col": 5,
+      "direction": "across",
       "id": 3,
       "answer": "JUSTINBIEBER"
     },
     {
       "word": "LEATHERPANTS",
       "clue": "Ross Geller's struggle, your style staple",
-      "row": 5,
-      "col": 10,
+      "row": 3,
+      "col": 7,
       "direction": "down",
       "id": 4,
       "answer": "LEATHERPANTS"
@@ -41,17 +41,17 @@
     {
       "word": "LAVIEENROSE",
       "clue": "The flushed hue of my world when we're intimate",
-      "row": 9,
-      "col": 13,
-      "direction": "down",
+      "row": 18,
+      "col": 6,
+      "direction": "across",
       "id": 5,
       "answer": "LAVIEENROSE"
     },
     {
       "word": "TIMHORTONS",
       "clue": "Double-double dealer",
-      "row": 18,
-      "col": 4,
+      "row": 9,
+      "col": 2,
       "direction": "across",
       "id": 6,
       "answer": "TIMHORTONS"
@@ -59,8 +59,8 @@
     {
       "word": "SCENARIOS",
       "clue": "Hypothetical question time",
-      "row": 12,
-      "col": 16,
+      "row": 1,
+      "col": 11,
       "direction": "down",
       "id": 7,
       "answer": "SCENARIOS"
@@ -68,80 +68,80 @@
     {
       "word": "BUILDINGS",
       "clue": "Concrete sky-scrapers you admire",
-      "row": 16,
-      "col": 5,
-      "direction": "down",
+      "row": 1,
+      "col": 3,
+      "direction": "across",
       "id": 8,
       "answer": "BUILDINGS"
     },
     {
-      "word": "MUSICALS",
-      "clue": "Broadway's love language",
-      "row": 21,
-      "col": 2,
-      "direction": "across",
-      "id": 9,
-      "answer": "MUSICALS"
-    },
-    {
       "word": "BADEMIYA",
       "clue": "Late night priesthood of kebabs",
-      "row": 6,
-      "col": 7,
+      "row": 5,
+      "col": 10,
       "direction": "across",
-      "id": 10,
+      "id": 9,
       "answer": "BADEMIYA"
+    },
+    {
+      "word": "MUSICALS",
+      "clue": "Broadway's love language",
+      "row": 0,
+      "col": 17,
+      "direction": "down",
+      "id": 10,
+      "answer": "MUSICALS"
     },
     {
       "word": "ARITZIA",
       "clue": "Beige aesthetic that drains the wallet",
-      "row": 0,
-      "col": 8,
-      "direction": "down",
+      "row": 5,
+      "col": 1,
+      "direction": "across",
       "id": 11,
       "answer": "ARITZIA"
     },
     {
       "word": "PILATES",
-      "clue": "Reformer torture session",
-      "row": 8,
+      "clue": "Pulse, hold, shake... embrace the burn",
+      "row": 22,
       "col": 6,
       "direction": "across",
       "id": 12,
       "answer": "PILATES"
     },
     {
-      "word": "SKIING",
-      "clue": "Controlled avalanche evasion",
-      "row": 23,
-      "col": 0,
-      "direction": "across",
+      "word": "HOCKEY",
+      "clue": "Canada's Religion on ice",
+      "row": 1,
+      "col": 13,
+      "direction": "down",
       "id": 13,
-      "answer": "SKIING"
+      "answer": "HOCKEY"
     },
     {
-      "word": "HOCKEY",
-      "clue": "Religion on ice",
-      "row": 10,
-      "col": 6,
-      "direction": "across",
+      "word": "SKIING",
+      "clue": "Controlled avalanche evasion",
+      "row": 20,
+      "col": 7,
+      "direction": "down",
       "id": 14,
-      "answer": "HOCKEY"
+      "answer": "SKIING"
     },
     {
       "word": "SUSHI",
       "clue": "Deconstructed aquarium dinner",
-      "row": 21,
-      "col": 9,
-      "direction": "down",
+      "row": 16,
+      "col": 8,
+      "direction": "across",
       "id": 15,
       "answer": "SUSHI"
     },
     {
       "word": "SAIF",
       "clue": "The architect of this puzzle ;)",
-      "row": 25,
-      "col": 7,
+      "row": 2,
+      "col": 17,
       "direction": "across",
       "id": 16,
       "answer": "SAIF"

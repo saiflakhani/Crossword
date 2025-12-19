@@ -304,7 +304,7 @@ export default function App() {
               </button>
             </div>
 
-            <div className="flex-1 overflow-y-auto scrollbar-hide space-y-2 mt-4">
+            <div className="flex-1 overflow-y-auto space-y-2 mt-4 pr-2">
               <h3 className="text-gray-400 text-sm font-semibold uppercase tracking-wider mb-2 sticky top-0 bg-gray-800/95 py-2">All Clues</h3>
               {layout.words.map((w) => (
                 <div
