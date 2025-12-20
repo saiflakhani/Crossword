@@ -1,6 +1,6 @@
 export const WORD_LIST = [
     { word: "ARITZIA", clue: "Beige aesthetic that drains the wallet" },
-    { word: "BADEMIYA", clue: "Late night priesthood of kebabs" },
+    { word: "BADEMIYA", clue: "Late night mumbai kebabs" },
     { word: "HOCKEY", clue: "Canada's Religion on ice" },
     { word: "MUSICALS", clue: "Broadway's love language" },
     { word: "BUILDINGS", clue: "Concrete sky-scrapers you admire" },
